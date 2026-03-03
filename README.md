@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Shri Harsan 👋
 
 **AI Engineer | Hackathon Top 10 & Finalist | Building Production ML Systems**  
@@ -6,6 +8,8 @@ MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriharsan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KptbBoLr4X/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriharsang@gmail.com)
+
+</div>
 
 ---
 
