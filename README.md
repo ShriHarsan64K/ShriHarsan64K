@@ -21,7 +21,7 @@ I specialize in **data science and machine learning engineering** with a focus o
 
 * 🔭 **Current Focus:** Scientific ML, Deep Learning, LLM Applications
 * 🎓 **MTech Data Science** @ SRM IST | **Perplexity Campus Partner**
-* 🏆 **Hackathon Finalist & Top 10** (TANFINET, Schneider Electric, AMD Slingshot)
+* 🏆 **Hackathon Finalist & Top 10** (TANFINET, Schneider Electric)
 * 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems, Statistical Modeling
 
 ---
