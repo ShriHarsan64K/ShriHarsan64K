@@ -1,4 +1,5 @@
-# Hi, I'm Shri Harsan 👋
+<div align="center">
+  # Hi, I'm Shri Harsan 👋
 
 **AI Engineer | Hackathon Top 10 & Finalist | Building Production ML Systems**  
 MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
@@ -17,7 +18,7 @@ I specialize in **data science and machine learning engineering** with a focus o
 
 * 🔭 **Current Focus:** Scientific ML, Deep Learning, LLM Applications
 * 🎓 **MTech Data Science** @ SRM IST | **Perplexity Campus Partner**
-* 🏆 **Hackathon Finalist & Top 10** (TANFINET, Schneider Electric, AMD Slingshot)
+* 🏆 **Hackathon Finalist & Top 10** (TANFINET, Schneider Electric)
 * 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems, Statistical Modeling
 
 ---
