@@ -13,12 +13,12 @@ MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
 
 From mechanical engineering to building production AI systems — my journey has been driven by one question: **"How can AI solve real-world problems?"**
 
-I specialize in building intelligent systems that bridge theory and production. Whether it's physics-informed neural networks for scientific computing, network automation for telecom infrastructure, or offline-first AI assistants for students — I focus on **impact over hype**.
+I specialize in **data science and machine learning engineering** with a focus on solving complex problems across domains — from scientific computing and physics-informed neural networks to LLM applications and intelligent automation. I believe in building AI systems that are not just accurate, but **interpretable, production-ready, and impactful**.
 
-* 🔭 **Current Focus:** Scientific ML, LLM Applications, Network Automation
-* 🏆 **Hackathon Finalist & Top 10** (TANFINET, Schneider Electric)
+* 🔭 **Current Focus:** Scientific ML, Deep Learning, LLM Applications
 * 🎓 **MTech Data Science** @ SRM IST | **Perplexity Campus Partner**
-* 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems, Edge AI
+* 🏆 **Hackathon Finalist & Top 10** (TANFINET, Schneider Electric, AMD Slingshot)
+* 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems, Statistical Modeling
 
 ---
 
@@ -188,10 +188,11 @@ Designed and developed a drone capable of carrying heavy payloads with optimized
 ## 📫 Let's Connect
 
 I'm always open to collaborating on interesting AI/ML projects, especially in:
+- **Data Science & Statistical Modeling**
 - **Scientific ML & Physics-Informed Neural Networks**
 - **LLM Applications & Multi-Agent Systems**
-- **Network Automation & Telecom AI**
-- **Edge AI & Offline-First Applications**
+- **Deep Learning for Computer Vision & NLP**
+- **Production ML Systems & MLOps**
 
 **📧 Email:** shriharsang@gmail.com  
 **💼 LinkedIn:** [linkedin.com/in/shriharsan](https://www.linkedin.com/in/shriharsan)  
@@ -201,7 +202,7 @@ I'm always open to collaborating on interesting AI/ML projects, especially in:
 
 <div align="center">
 
-### *"Not just training models — understanding why they work."*
+### *"Data tells stories. I help them speak."*
 
 ⭐ **If you find my work interesting, star my repos and let's connect!**
 
