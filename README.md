@@ -1,6 +1,6 @@
 # Hi, I'm Shri Harsan 👋
 
-**AI Engineer | Hackathon Winner | Building Production ML Systems**  
+**AI Engineer | Hackathon Top 10 & Finalist | Building Production ML Systems**  
 MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriharsan)
@@ -16,7 +16,7 @@ From mechanical engineering to building production AI systems — my journey has
 I specialize in building intelligent systems that bridge theory and production. Whether it's physics-informed neural networks for scientific computing, network automation for telecom infrastructure, or offline-first AI assistants for students — I focus on **impact over hype**.
 
 * 🔭 **Current Focus:** Scientific ML, LLM Applications, Network Automation
-* 🏆 **3x Hackathon Winner** (TANFINET, Schneider Electric, AMD Slingshot)
+* 🏆 **Hackathon Finalist & Top 10** (TANFINET, Schneider Electric)
 * 🎓 **MTech Data Science** @ SRM IST | **Perplexity Campus Partner**
 * 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems, Edge AI
 
@@ -64,7 +64,7 @@ I specialize in building intelligent systems that bridge theory and production. 
 ## 🏆 Featured Hackathon Projects
 
 ### ⚡ NetFault-AI — TANFINET Hackathon 2026
-**Automated Network Fault Isolation for BharatNet** | 🥇 **Finalist**
+**Automated Network Fault Isolation for BharatNet** | 🏆 **Finalist**
 
 AI-powered system that reduces network fault investigation from **2-6 hours to <60 seconds** (99.7% reduction). Detects faults, calculates geographical blast radius, identifies affected customers, and auto-routes tickets.
 
@@ -98,7 +98,7 @@ AI-powered system that reduces network fault investigation from **2-6 hours to <
 ---
 
 ### 🚀 Schneider AI Code Reviewer — Innovation Hackathon 2026
-**Industrial Code Analysis & Auto-Fix** | 🥇 **Winner**
+**Industrial Code Analysis & Auto-Fix** | 🏅 **Top 10 Nationwide**
 
 VSCode extension that analyzes code against **558 Schneider Electric standards** across 7 languages and auto-fixes violations in one click.
 
@@ -164,9 +164,9 @@ Designed and developed a drone capable of carrying heavy payloads with optimized
 * 🥇 **1st Place** — SAE India Paper Presentation (AIoT & Smart Systems), 2023
 * 🥈 **2nd Place** — National Level Student Technical Design Competition 2K25, SRM IST
 * 🥉 **3rd Place** — FAME Paper Presentation on Hybrid Vehicles, 2024
-* 🎯 **Finalist** — TANFINET Hackathon (NetFault-AI), 2026
-* 🏆 **Winner** — Schneider Electric Innovation Hackathon, 2026
-* 🎯 **Participant** — AMD Slingshot 2026 (ResearchMind)
+* 🏆 **Finalist** — TANFINET Hackathon 2026 (NetFault-AI)
+* 🏅 **Top 10 Nationwide** — Schneider Electric Innovation Hackathon 2026
+* 🎯 **Participant** — AMD Slingshot 2026 (ResearchMind - Team NextStrike)
 * 🎯 **Participant** — Appian AI Application Challenge, IIT Madras Shaastra 2026
 
 ---
