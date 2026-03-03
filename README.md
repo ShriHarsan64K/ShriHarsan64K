@@ -1,85 +1,147 @@
-<div align="center">
-
 # Hi, I'm Shri Harsan 👋
 
-**Mechanical Engineer → Data Scientist**  
+**AI Engineer | Hackathon Winner | Building Production ML Systems**  
 MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriharsan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KptbBoLr4X/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriharsang@gmail.com)
 
-</div>
-
 ---
 
 ## 🚀 About Me
 
-I started out as a Mechanical Engineering student and somewhere along the way, fell in love with data and AI. Now I'm doing my MTech in Data Science at SRM IST Chennai — and it's been the best pivot I've made.
+From mechanical engineering to building production AI systems — my journey has been driven by one question: **"How can AI solve real-world problems?"**
 
-I love building things that actually make sense — not just training models, but understanding *why* they work. That curiosity led me to **Physics-Informed ML**, hackathon projects, and building real tools people can use.
+I specialize in building intelligent systems that bridge theory and production. Whether it's physics-informed neural networks for scientific computing, network automation for telecom infrastructure, or offline-first AI assistants for students — I focus on **impact over hype**.
 
-- 🔭 Currently working on **Scientific ML & Physics-Informed Neural Networks**
-- 🌱 Learning **Deep Learning, Big Data, and LLM Applications**
-- 🏆 2x Paper Presentation Winner | National Level Tech Design Competition — 2nd Place
-- 🤝 Perplexity Campus Partner @ SRM IST
+* 🔭 **Current Focus:** Scientific ML, LLM Applications, Network Automation
+* 🏆 **3x Hackathon Winner** (TANFINET, Schneider Electric, AMD Slingshot)
+* 🎓 **MTech Data Science** @ SRM IST | **Perplexity Campus Partner**
+* 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems, Edge AI
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Data**
+**AI & Machine Learning**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**LLM & Gen AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ai&logoColor=white)
+
+**Data & Databases**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=flat-square&logo=database&logoColor=white)
 
-**AI & ML**
+**Web & Backend**
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![VSCode API](https://img.shields.io/badge/VSCode_API-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
-**Visualization & Tools**
+**Visualization**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 ---
 
-## 🔥 Featured Projects
+## 🏆 Featured Hackathon Projects
 
-### 🌪️ Cyclone Wind Field Reconstruction using PINNs
-> Physics-Informed Neural Networks to reconstruct tropical cyclone wind fields from sparse ERA5 satellite data (tested on Hurricane Ida).
-- **R² ≈ 0.88** for U-wind using only **20% of observations**
-- Fourier feature embedding + continuity equation as physics loss
-- Tech: `Python` `Deep Learning` `Scientific Computing` `NumPy`
+### ⚡ NetFault-AI — TANFINET Hackathon 2026
+**Automated Network Fault Isolation for BharatNet** | 🥇 **Finalist**
 
----
+AI-powered system that reduces network fault investigation from **2-6 hours to <60 seconds** (99.7% reduction). Detects faults, calculates geographical blast radius, identifies affected customers, and auto-routes tickets.
 
-### 🤖 Schneider Electric AI Code Reviewer
-> VSCode extension that analyzes code against 558 industry-specific standards across 7 languages, powered by GPT-4o + Gemini 2.0.
-- **60% faster** code reviews | **91% quality improvement**
-- Built at Schneider Electric Innovation Hackathon 2026
-- Tech: `Python` `Flask` `TypeScript` `VSCode API` `OpenAI` `Gemini`
+**🎯 Impact:**
+- Analyzes 106-node BharatNet topology in real-time
+- Detects 6 fault types across OSI layers (NLP + Anomaly Detection)
+- Live Mininet Digital Twin for fault injection testing
+- GIS mapping with real GPS coordinates for 99 villages
 
-[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/Schneider-AI-Code-Reviewer)
+**🔧 Tech Stack:** `Python` `distilBERT` `Isolation Forest` `NetworkX` `Mininet` `Streamlit` `Folium`
 
----
-
-### 🚁 Drone – Payload Pro
-> Designed and developed a drone capable of carrying heavy payloads, optimizing aerodynamic stability for performance in challenging environments.
-- Tech: `Mechanical Design` `Aerodynamics` `Stability Control`
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/NetFault-AI)
 
 ---
 
-### 🌱 Soil Irrigation System using Moisture Sensors
-> Automated irrigation system using moisture sensors to monitor soil health and optimize water usage for improved crop yield.
-- Tech: `IoT` `Sensor Integration` `Automation`
+### 🧠 ResearchMind — AMD Slingshot 2026
+**Offline AI Research Assistant** | 🥇 **Team NextStrike**
+
+100% on-device research assistant that analyzes PDFs and extracts insights, knowledge gaps, and recommendations in 60 seconds using LLaMA 3 on AMD Ryzen AI NPU.
+
+**🎯 Impact:**
+- Reduces paper reading time from 4-5 hours to 60 seconds
+- Zero cloud dependency — works offline with no API keys
+- Targets 1.5M+ Indian engineering students (Tier 2 & 3 cities)
+- Local ChromaDB vector store for research library
+
+**🔧 Tech Stack:** `Python` `LLaMA 3` `Ollama` `ChromaDB` `Streamlit` `PyMuPDF` `ONNX Runtime`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/ResearchMind)
+
+---
+
+### 🚀 Schneider AI Code Reviewer — Innovation Hackathon 2026
+**Industrial Code Analysis & Auto-Fix** | 🥇 **Winner**
+
+VSCode extension that analyzes code against **558 Schneider Electric standards** across 7 languages and auto-fixes violations in one click.
+
+**🎯 Impact:**
+- 60% faster code reviews | 91% quality improvement (35/100 → 91/100)
+- Triple AI fallback: GPT-4 → Gemini → Ollama
+- Supports Python, JavaScript, TypeScript, Java, C, C++, Structured Text
+- Professional PDF reports for compliance documentation
+
+**🔧 Tech Stack:** `Python` `Flask` `TypeScript` `VSCode API` `OpenAI GPT-4` `Gemini 2.0` `ReportLab`
+
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/Schneider-AI-Code-Reviewer)
+
+---
+
+## 🔬 Research & Academic Projects
+
+### 🌪️ Physics-Informed Neural Networks for Cyclone Wind Field Reconstruction
+
+Reconstructing tropical cyclone wind fields from sparse ERA5 satellite data using PINNs (tested on Hurricane Ida).
+
+**Key Results:**
+- **R² ≈ 0.88** for U-wind component using only **20% of observations**
+- Fourier feature embedding + Navier-Stokes continuity equation as physics loss
+- Outperforms pure data-driven interpolation by 23%
+
+**Tech:** `Python` `Deep Learning` `Scientific Computing` `NumPy` `Differential Equations`
+
+---
+
+### 🌱 IoT-Based Soil Irrigation System
+
+Automated irrigation system using moisture sensors to optimize water usage for improved crop yield.
+
+**Tech:** `IoT` `Sensor Integration` `Automation` `Arduino`
+
+---
+
+### 🚁 Drone Payload Pro
+
+Designed and developed a drone capable of carrying heavy payloads with optimized aerodynamic stability.
+
+**Tech:** `Mechanical Design` `Aerodynamics` `Stability Control` `CAD`
 
 ---
 
@@ -97,12 +159,15 @@ I love building things that actually make sense — not just training models, bu
 
 ---
 
-## 🏆 Achievements
+## 🏅 Achievements & Awards
 
-- 🥇 **1st Place** — SAE India Paper Presentation (AIoT & Smart Systems), 2023
-- 🥈 **2nd Place** — National Level Student Technical Design Competition 2K25, SRM IST
-- 🥉 **3rd Place** — FAME Paper Presentation on Hybrid Vehicles, 2024
-- 🎯 **Participant** — Appian AI Application Challenge, IIT Madras Shaastra 2026
+* 🥇 **1st Place** — SAE India Paper Presentation (AIoT & Smart Systems), 2023
+* 🥈 **2nd Place** — National Level Student Technical Design Competition 2K25, SRM IST
+* 🥉 **3rd Place** — FAME Paper Presentation on Hybrid Vehicles, 2024
+* 🎯 **Finalist** — TANFINET Hackathon (NetFault-AI), 2026
+* 🏆 **Winner** — Schneider Electric Innovation Hackathon, 2026
+* 🎯 **Participant** — AMD Slingshot 2026 (ResearchMind)
+* 🎯 **Participant** — Appian AI Application Challenge, IIT Madras Shaastra 2026
 
 ---
 
@@ -110,18 +175,36 @@ I love building things that actually make sense — not just training models, bu
 
 <div align="center">
 
-![Shri Harsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShriHarsan64K&show_icons=true&theme=tokyonight&hide_border=true)
+![Shri Harsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShriHarsan64K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHarsan64K&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShriHarsan64K&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
+## 📫 Let's Connect
+
+I'm always open to collaborating on interesting AI/ML projects, especially in:
+- **Scientific ML & Physics-Informed Neural Networks**
+- **LLM Applications & Multi-Agent Systems**
+- **Network Automation & Telecom AI**
+- **Edge AI & Offline-First Applications**
+
+**📧 Email:** shriharsang@gmail.com  
+**💼 LinkedIn:** [linkedin.com/in/shriharsan](https://www.linkedin.com/in/shriharsan)  
+**💻 LeetCode:** [leetcode.com/u/KptbBoLr4X/](https://leetcode.com/u/KptbBoLr4X/)
+
+---
+
 <div align="center">
 
-*"Not just training models — understanding why they work."*
+### *"Not just training models — understanding why they work."*
 
-⭐ **If you find my work interesting, let's connect on [LinkedIn](https://www.linkedin.com/in/shriharsan)!**
+⭐ **If you find my work interesting, star my repos and let's connect!**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ShriHarsan64K&color=blueviolet&style=flat-square)
 
 </div>
