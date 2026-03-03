@@ -1,5 +1,4 @@
-<div align="center">
-  # Hi, I'm Shri Harsan 👋
+# Hi, I'm Shri Harsan 👋
 
 **AI Engineer | Hackathon Top 10 & Finalist | Building Production ML Systems**  
 MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
