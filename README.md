@@ -1,11 +1,16 @@
+<div align="center">
+
 # Hi, I'm Shri Harsan 👋
 
 **AI Engineer | Hackathon Finalist & Top 10 | Building Production ML Systems**
+
 MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shriharsan)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/KptbBoLr4X/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shriharsang@gmail.com)
+
+</div>
 
 ---
 
@@ -156,11 +161,15 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 
 ## 📊 GitHub Stats
 
+<div align="center">
+
 ![Shri Harsan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShriHarsan64K&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShriHarsan64K&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ShriHarsan64K&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
