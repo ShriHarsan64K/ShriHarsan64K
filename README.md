@@ -147,15 +147,18 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Year |
-|---|---|---|
-| Python for Data Science, AI & Development | IBM / Coursera | 2026 |
-| Crash Course on Python | Google / Coursera | 2026 |
-| 5-Day AI Agents Intensive Course | Kaggle / Google | 2025 |
-| Generative AI Models & Methods | SRM IST | 2025 |
-| EDA for Machine Learning | IBM / Coursera | 2025 |
-| Python for Data Analysis: Pandas & NumPy | Coursera | 2025 |
-| Big Data Tools & Techniques | SRM IST | 2025 |
+| Certificate | Issuer | Hours | Year |
+|---|---|---|---|
+| Machine Learning Foundations | AWS Academy | 20h | 2026 |
+| ML for Natural Language Processing | AWS Academy | 20h | 2026 |
+| Generative AI Foundations | AWS Academy | 12h | 2026 |
+| AWS Cloud Practitioner | AWS | - | 2026 |
+| Crash Course on Python | Google / Coursera | - | 2026 |
+| Python for Data Science, AI & Development | IBM / Coursera | - | 2026 |
+| AI Agents Intensive | Google & Kaggle | - | 2026 |
+| Fundamentals of AI | IIT NPTEL | - | 2025 |
+| EDA for Machine Learning | Coursera | - | 2025 |
+| MySQL | Coursera | - | 2025 |
 
 ---
 
