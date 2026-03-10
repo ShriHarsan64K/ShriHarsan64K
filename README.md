@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.dribbble.com/userupload/46524701/file/e1fa537f04f36ff95aa0085a1731be54.gif" alt="Animated Coding" width="100%" style="max-height: 300px; object-fit: cover;"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,100:7c3aed&height=180&section=header&text=Shri%20Harsan%20M&fontSize=70&fontColor=fff&animation=twinkling&fontAlignY=28" />
 
 # Hi, I'm Shri Harsan 👋
 
