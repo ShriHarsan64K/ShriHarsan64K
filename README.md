@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ShriHarsan64K/ShriHarsan64K/master/assets/header.gif" width="600"/>
+<img src="https://github.com/ShriHarsan64K/ShriHarsan64K/blob/main/assets/header.gif?raw=true" width="600"/>
 
 # Hi, I'm Shri Harsan 👋
 
