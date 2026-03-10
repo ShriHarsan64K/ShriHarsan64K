@@ -176,6 +176,16 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 
 ---
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://raw.githubusercontent.com/ShriHarsan64K/ShriHarsan64K/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 I'm always open to collaborating on interesting AI/ML projects, especially in:
