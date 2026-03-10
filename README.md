@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://cdn.dribbble.com/userupload/46524701/file/e1fa537f04f36ff95aa0085a1731be54.gif" alt="Animated Coding" width="100%"/>
+
 # Hi, I'm Shri Harsan 👋
 
 **AI Engineer | Hackathon Finalist & Top 10 | Building Production ML Systems**
