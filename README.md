@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://cdn.dribbble.com/userupload/46524701/file/e1fa537f04f36ff95aa0085a1731be54.gif" alt="Coding" height="200"/>
+<img src="https://cdn.dribbble.com/userupload/46524701/file/e1fa537f04f36ff95aa0085a1731be54.gif" width="600"/>
 
 # Hi, I'm Shri Harsan 👋
 
