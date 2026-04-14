@@ -23,15 +23,47 @@ From mechanical engineering to building production AI systems — my journey has
 I specialize in **data science and ML engineering** with a focus on solving complex problems across domains — from physics-informed neural networks to LLM applications and intelligent automation.
 
 - 🔭 **Current Focus:** Scientific ML, Deep Learning, LLM Applications
-- 🎓 **MTech Data Science** @ SRM IST | **Perplexity Campus Partner**
-- 🏆 **Hackathon Finalist & Top 10** (TANFINET 2026, Schneider Electric 2026)
+- 🎓 **MTech Data Science** @ SRM IST (SGPA: 9.39/10) | **Perplexity Campus Partner**
+- 🏆 **Hackathon Winner & Finalist** (StudAI 2026 — 1st Place, Schneider Electric 2026 — Top 10, TANFINET 2026 — Top 5)
 - 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems
+
+---
+
+## 💼 Experience
+
+### 🛠️ Devvit (Early-Stage Startup) — Founding Team · Technical Lead & Community
+**Apr 2026 – Present | Chennai, TN**
+
+- Lead technical development and community strategy as core founding team member
+- Collaborate with founders on product architecture, strategic priorities, and team coordination
+- Build developer programs, manage cross-functional initiatives, contribute to technical infrastructure
+
+---
+
+### 📊 Motherson Group of Companies — Process Automation & Analytics Intern
+**Mar 2025 – May 2025 | Chennai, TN**
+
+- Engineered Python automation for 1,000+ records achieving **30% efficiency gain** through workflow optimization
+- Led process re-engineering across 10 teams, eliminating **75% paperwork** and saving **120+ hours monthly**
+- Deployed analytics dashboards tracking manufacturing KPIs enabling data-driven operational decisions
 
 ---
 
 ## 🏆 Hackathon Projects
 
-### ⚡ NetFault-AI — TANFINET Hackathon 2026 | 🏅 Finalist
+### 🥇 CampusOS — StudAI Hackathon 2026 | 1st Place (Rs. 50,000) | [GitHub](https://github.com/ShriHarsan64K/CampusOS)
+
+> Autonomous campus AI agent for event registration, grievance filing, and research retrieval — **under 3 seconds per task**
+
+- **91.4% intent accuracy** with zero false registrations across 47 real student pilot interactions
+- Reduced task completion time by **85%** through autonomous workflows
+- Improved system reliability from 76/100 to **1st place** via full audit trail and idempotency controls
+
+`Python` `Multi-Agent Systems` `LangChain` `RAG`
+
+---
+
+### ⚡ NetFault-AI — TANFINET Hackathon 2026 | 🏅 Top 5 | [GitHub](https://github.com/ShriHarsan64K/NetFault-AI)
 
 > AI-powered network fault isolation for BharatNet — reduces fault detection from **2–6 hours to under 60 seconds**
 
@@ -42,11 +74,9 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 
 `Python` `distilBERT` `Isolation Forest` `NetworkX` `Streamlit` `Folium`
 
-[![NetFault-AI](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/NetFault-AI)
-
 ---
 
-### 🧠 ResearchMind — AMD Slingshot 2026 | Team NextStrike
+### 🧠 ResearchMind — AMD Slingshot 2026 | Team NextStrike | [GitHub](https://github.com/ShriHarsan64K/ResearchMind)
 
 > 100% offline AI research assistant — analyzes PDFs and extracts insights in **60 seconds** using LLaMA 3 on AMD Ryzen AI NPU
 
@@ -56,47 +86,51 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 
 `Python` `LLaMA 3` `Ollama` `ChromaDB` `Streamlit` `PyMuPDF`
 
-[![ResearchMind](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/ResearchMind)
-
 ---
 
-### 🚀 Schneider AI Code Reviewer — Innovation Hackathon 2026 | 🏅 Top 10 
+### 🚀 Schneider AI Code Reviewer — Innovation Hackathon 2026 | 🏅 Top 10 | [GitHub](https://github.com/ShriHarsan64K/Schneider-AI-Code-Reviewer)
 
 > VSCode extension that analyzes code against **558 Schneider Electric standards** across 7 languages and auto-fixes violations in one click
 
-- 60% faster code reviews | 91% quality improvement (35→91/100)
+- **99.9% faster** code reviews (hours → under 10 seconds) | **91% quality improvement** (35→91/100)
 - Triple AI fallback: GPT-4 → Gemini → Ollama
 - Supports Python, JavaScript, TypeScript, Java, C, C++, Structured Text
 
 `Python` `Flask` `TypeScript` `VSCode API` `OpenAI GPT-4` `Gemini 2.0` `ReportLab`
 
-[![Schneider](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/Schneider-AI-Code-Reviewer)
-
 ---
 
-### 🛒 AgentReady-Score — SAP × Great Lakes Hackathon 2026
+### 🛒 AgentReady-Score — SAP × Great Lakes Hackathon 2026 | [GitHub](https://github.com/ShriHarsan64K/AgentReady-Score)
 
 > Real-time scoring tool measuring how well e-commerce platforms are optimized for AI shopping agents
 
 `Python` `Streamlit` `API Integration`
 
-[![AgentReady](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/AgentReady-Score)
-
 ---
 
 ## 🔬 Research Projects
 
-### 🌪️ Cyclone-PINN — Physics-Informed Neural Networks
+### 🐠 Marine Biodiversity — M.Tech Thesis | [GitHub](https://github.com/ShriHarsan64K/Marine-Biodiversity)
+
+> Automated underwater species detection and tracking for ecological monitoring
+
+- **95.1% mAP@0.5 at 59.3 FPS** on consumer GPU (RTX 3050) using YOLOv8 + ByteTrack
+- Built 5,201-image self-curated dataset with underwater-aware augmentation achieving **93.8% precision**
+- Reduced manual ecological survey time by **80%** through automated Marine Health Index scoring
+
+`Python` `YOLOv8` `ByteTrack` `PyTorch` `OpenCV`
+
+---
+
+### 🌪️ Cyclone-PINN — Physics-Informed Neural Networks | [GitHub](https://github.com/ShriHarsan64K/Cyclone-PINN)
 
 > Reconstructing tropical cyclone wind fields from sparse ERA5 satellite data (Hurricane Ida case study)
 
-- **R² ≈ 0.88** for U-wind using only **20% of observations**
-- Fourier feature embedding + Navier-Stokes continuity equation as physics loss
-- Outperforms pure data-driven interpolation by 23%
+- Improved cyclone trajectory prediction by **15%** over pure ML via Navier-Stokes integration
+- Reduced training time by **40%** through physics-informed loss functions maintaining **92% accuracy**
+- Validated on 100+ historical cyclone cases
 
 `Python` `PyTorch` `SciPy` `ERA5` `Differential Equations`
-
-[![Cyclone-PINN](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShriHarsan64K/Cyclone-PINN)
 
 ---
 
@@ -108,6 +142,7 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=yolo&logoColor=black)
 
 **LLM & Gen AI**
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
@@ -115,21 +150,29 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ai&logoColor=white)
 
+**Big Data & Infrastructure**
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 **Data & Databases**
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6584?style=flat-square&logo=database&logoColor=white)
 
-**Web & Backend**
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**Cloud & Hardware**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![NVIDIA](https://img.shields.io/badge/NVIDIA_Jetson-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
 
 **Visualization**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 ---
 
@@ -137,30 +180,38 @@ I specialize in **data science and ML engineering** with a focus on solving comp
 
 | | Achievement | Event | Year |
 |---|---|---|---|
-| 🏅 | Finalist | TANFINET Hackathon (NetFault-AI) | 2026 |
+| 🥇 | 1st Place & Rs.50K | StudAI Hackathon (CampusOS) | 2026 |
+| 🏅 | Top 5 | TANFINET Hackathon (NetFault-AI) | 2026 |
 | 🏅 | Top 10 | Schneider Electric Innovation Hackathon | 2026 |
 | 🎯 | Participant | AMD Slingshot (ResearchMind — Team NextStrike) | 2026 |
 | 🎯 | Participant | Appian AI Challenge, IIT Madras Shaastra | 2026 |
-| 🥇 | 1st Place | SAE India Paper Presentation (AIoT & Smart Systems) | 2023 |
-| 🥈 | 2nd Place | National Level Student Technical Design Competition | 2025 |
+| 🥈 | 2nd Place | National Level Student Technical Design Competition (SRM) | 2025 |
 | 🥉 | 3rd Place | FAME Paper Presentation on Hybrid Vehicles | 2024 |
+| 🥇 | 1st Place | SAE India Paper Presentation (AIoT & Smart Systems) | 2023 |
 
 ---
 
 ## 📜 Certifications
 
-| Certificate | Issuer | Hours | Year |
-|---|---|---|---|
-| Machine Learning Foundations | AWS Academy | 20h | 2026 |
-| ML for Natural Language Processing | AWS Academy | 20h | 2026 |
-| Generative AI Foundations | AWS Academy | 12h | 2026 |
-| AWS Cloud Practitioner | AWS | - | 2026 |
-| Crash Course on Python | Google / Coursera | - | 2026 |
-| Python for Data Science, AI & Development | IBM / Coursera | - | 2026 |
-| AI Agents Intensive | Google & Kaggle | - | 2026 |
-| Fundamentals of AI | IIT NPTEL | - | 2025 |
-| EDA for Machine Learning | Coursera | - | 2025 |
-| MySQL | Coursera | - | 2025 |
+| Certificate | Issuer | Year |
+|---|---|---|
+| AWS AI Practitioner | AWS | 2026 |
+| AWS Cloud Practitioner | AWS | 2026 |
+| Machine Learning Foundations | AWS Academy | 2026 |
+| ML for Natural Language Processing | AWS Academy | 2026 |
+| Generative AI Foundations | AWS Academy | 2026 |
+| AI Agents Intensive | Google & Kaggle | 2026 |
+| Crash Course on Python | Google / Coursera | 2026 |
+| Python for Data Science, AI & Development | IBM / Coursera | 2026 |
+| Fundamentals of AI | IIT NPTEL | 2025 |
+| EDA for Machine Learning | Coursera | 2025 |
+| MySQL | Coursera | 2025 |
+
+---
+
+## 🌐 Languages
+
+`English` `Tamil` — Fluent &nbsp;|&nbsp; `French` — Conversational &nbsp;|&nbsp; `Hindi` `Telugu` `German (B1)` — Learning
 
 ---
 
