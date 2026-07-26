@@ -4,7 +4,7 @@
 
 # Hi, I'm Shri Harsan 👋
 
-**AI Engineer | Computer Vision & Data Science | Building Production ML Systems**
+**Mechanical engineer who wandered into AI and never left** 🔧→🤖
 
 MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
 
@@ -19,12 +19,12 @@ MTech Data Science @ SRM IST Chennai | Perplexity Campus Partner
 
 ## 🚀 About Me
 
-Mechanical engineering background, now working across computer vision, physics-informed ML, and LLM-based systems. Currently a Graduate Technical Intern at Medtronic.
+Started out taking apart gearboxes, now I take apart vision transformers instead 👀. Currently a Graduate Technical Intern at Medtronic 🏥.
 
-- 🔭 **Current Focus:** Scientific ML, Deep Learning, LLM Applications
+- 🔭 **Right now:** Scientific ML, Deep Learning, LLM Applications
 - 🎓 **MTech Data Science** @ SRM IST | **Perplexity Campus Partner**
 - 🏆 **1st Place, StudAI 2026** (CampusOS) · Top 5, TANFINET 2026 · Top 10, Schneider Electric 2026
-- 🌱 **Exploring:** Physics-Informed Neural Networks, Multi-Agent LLM Systems
+- 🌱 **Currently poking at:** Physics-Informed Neural Networks, Multi-Agent LLM Systems
 
 ---
 
@@ -270,11 +270,12 @@ Mechanical engineering background, now working across computer vision, physics-i
 
 ## 📫 Let's Connect
 
-Open to collaborating on projects in:
-- **Scientific ML & Physics-Informed Neural Networks**
-- **LLM Applications & Multi-Agent Systems**
-- **Production ML Systems & MLOps**
-- **Deep Learning for Computer Vision & NLP**
+Always up for a good conversation about computer vision, multi-agent systems, or why a model's wrong in an interesting way 🤙
+
+- 🔬 Scientific ML & Physics-Informed Neural Networks
+- 🤖 LLM Applications & Multi-Agent Systems
+- ⚙️ Production ML Systems & MLOps
+- 👁️ Deep Learning for Computer Vision & NLP
 
 📧 **Email:** [shriharsang@gmail.com](mailto:shriharsang@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/shriharsan](https://www.linkedin.com/in/shriharsan)
